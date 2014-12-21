@@ -27,3 +27,6 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 * Appropriately label the data set with descriptive variable names
 * create a second, independent tidy data set with the average of each variable for
 each activity and each subject
+
+###program
+* run_analysis.R
