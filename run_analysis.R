@@ -9,14 +9,15 @@
 # Operating system OSX 10.8.5
 
 # install required packages
+  install.packages("dplyr")
+  library(dplyr)  
   install.packages("plyr")
   library(plyr)
   install.packages("reshape")
   library(reshape)
   install.packages("tidyr")
   library(tidyr)
-  install.packages("dplyr")
-  library(dplyr)
+  
 
 # link to data set
 url <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
